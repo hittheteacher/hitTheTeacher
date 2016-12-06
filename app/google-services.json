@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98164743349",
+    "firebase_url": "https://hittheteacherdb.firebaseio.com",
+    "project_id": "hittheteacherdb",
+    "storage_bucket": "hittheteacherdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98164743349:android:9fbd841be6a895ff",
+        "android_client_info": {
+          "package_name": "com.example.rozalia.hittheteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98164743349-cqias5qtehev6omn8p1fqn0p0esj1a63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGh37sGKqd7eknvQ92sIWCrzTAOY4XKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
